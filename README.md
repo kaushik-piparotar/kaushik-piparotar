@@ -1,6 +1,11 @@
-# 💫 About Me:
-Associate Tech Lead at Trane Technologies | Ex-HCL | Ex-Data Patterns | IIT Kanpur | IIT Roorkee | Swiss School of Business and Management (SSBM Geneva, Switzerland)
+# Hi there 👋, I'm Kaushik Piparotar
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=600&lines=Associate+Tech+Lead - Embedded;Cybersecurity+Enthusiast+%26+Researcher;Embedded+%26+Application Development+Expert;Laravel+%26+BACnet+Specialist;Cloud+%26+IoT+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+# 💫 About Me:
+Passionate **Associate Tech Lead - Embedded** and **Cybersecurity Enthusiast & Researcher** with extensive expertise in Embedded, and IoT technologies. I specialize in building secure, scalable Embedded applications across multiple platforms while researching emerging security threats and implementing robust defense mechanisms. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-piparotar) 
